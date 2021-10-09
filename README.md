@@ -1,6 +1,6 @@
 # This project is deployed here
 
-https://make-budget.netlify.app/
+https://makebudget.netlify.app/
 
 # Getting Started with Create React App
 
